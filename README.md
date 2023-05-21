@@ -1,16 +1,10 @@
-# world_time_app
+# Basic Flutter application that shows current time in certain locations around the world
 
-World time application.
+## Technologies used during the creating of the application
 
-## Getting Started
+#### Flutter and Dart
 
-This project is a starting point for a Flutter application.
+**Screenshots from the application**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Landing page](https://github.com/KerimZuna/World_Time/blob/main/Screenshot_20230521-160021.jpg)
+![Selection menu](https://github.com/KerimZuna/World_Time/blob/main/Screenshot_20230521-160024.jpg)
