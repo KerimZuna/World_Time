@@ -2,7 +2,7 @@
 
 Basic Flutter application that shows current time in certain locations around the world
 
-* Technologies used: Flutter
+* Technologies used: Flutter and Dart
 
 **Screenshots from the application**
 
