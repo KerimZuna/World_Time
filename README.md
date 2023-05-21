@@ -1,6 +1,6 @@
-# Basic Flutter application that shows current time in certain locations around the world
+## Basic Flutter application that shows current time in certain locations around the world
 
-## Technologies used during the creating of the application
+### Technologies used during the creating of the application
 
 #### Flutter and Dart
 
